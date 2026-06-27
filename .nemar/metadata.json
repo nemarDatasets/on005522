@@ -1,36 +1,88 @@
 {
   "version": "2.0",
-  "dataset_id": "on005522",
-  "source": "openneuro",
-  "source_id": "ds005522",
+  "pipeline_stage": "enriched",
   "title": "Spatial Navigation Memory of Object Locations",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Haydn G. Herrema": {},
     "Michael J. Kahana": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds005522.v1.0.0",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on005522",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on005522",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds005522",
+      "identifier_type": "DOI",
+      "relation_type": "IsVersionOf"
     }
-  ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.7.0",
-  "recording_modality": [
-    "beh",
-    "ieeg"
-  ],
-  "datatypes": [
-    "beh",
-    "ieeg"
   ],
   "funding_references": [
     {
-      "funder_name": "DARPA RAM: N66001-14-2-4032"
+      "funder_name": "DARPA",
+      "award_number": "N66001-14-2-4032",
+      "award_title": "RAM"
     }
   ],
-  "acknowledgements": "We thank our collaborators who have helped in the collection of this data: Hospital of the University of Pennsylvania, Thomas Jefferson University Hospital, Dartmouth-Hitchcock Medical Center, Mayo Clinic, Columbia University Hospital, Emory University Hospital, University of Texas Southwestern Medical Center, University of Washington Medical Center."
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "beh",
+    "ieeg"
+  ],
+  "resource_type_specific": "Neuroimaging Dataset",
+  "sizes": [
+    "0.0 KB (1 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".md",
+    ".tsv",
+    ".txt"
+  ],
+  "description": "This dataset contains intracranial electrophysiological recordings and behavioral data from a spatial navigation memory task conducted across multiple clinical sites. Participants encoded object locations during guided navigation learning phases and recalled them during self-navigation test phases. The study investigates memory mechanisms underlying spatial navigation through direct brain recordings in clinical populations.",
+  "methods_description": "Intracranial EEG recordings were collected during a spatial navigation memory task consisting of 50 trials per session (2 practice, 48 experimental). Each trial included 2 learning phases with guided navigation to object locations and 1 test phase requiring self-navigation recall. Learning trials involved automatic navigation to objects over 3 seconds with 1-second orientation and pause periods. Test trials required participants to navigate to remembered object locations in a 64.8 x 36 unit virtual environment. Recordings were acquired using Blackrock (250 nV units) and Medtronic (0.1 µV units) systems with monopolar and bipolar electrode configurations.",
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "spatial navigation"
+    },
+    {
+      "term": "memory encoding"
+    },
+    {
+      "term": "object location memory"
+    },
+    {
+      "term": "electrophysiology"
+    },
+    {
+      "term": "virtual reality"
+    },
+    {
+      "term": "Blackrock"
+    },
+    {
+      "term": "Medtronic"
+    },
+    {
+      "term": "clinical iEEG"
+    }
+  ],
+  "source_hash": "6a29129d7c5396a5ba4aab6d6ca37bf559e2d6e748ca25e97766e84ea86fe5c3"
 }
