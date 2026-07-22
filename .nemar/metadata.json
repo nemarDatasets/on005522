@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Spatial Navigation Memory of Object Locations",
-  "description": "This dataset comprises intracranial electrophysiological recordings and behavioral data from a spatial navigation memory task conducted across multiple clinical sites. Participants encoded object locations during guided navigation learning phases and subsequently recalled these locations during self-navigation test phases. The dataset includes 50 trials per session with detailed behavioral events and iEEG recordings, providing a resource for investigating neural mechanisms of spatial memory and navigation.",
-  "methods_description": "Intracranial electrophysiological recordings were collected during a spatial navigation memory task consisting of learning and test phases. Each session contained 50 trials (2 practice, 48 experimental) organized in counterbalanced blocks. Learning trials involved guided navigation to object locations (1 s orientation, 3 s automatic drive, 1 s pause), followed by test trials requiring self-navigation to remembered locations. Recordings were acquired using Blackrock (250 nV units) and Medtronic (0.1 µV units) systems with monopolar and bipolar electrode configurations.",
+  "description": "This dataset comprises intracranial electrophysiological recordings and behavioral data from a spatial navigation memory task conducted across multiple clinical sites. Participants encoded object locations during guided navigation learning phases and subsequently recalled these locations during self-navigation test phases. The dataset includes 50 trials per session with counterbalanced trial blocking and provides both monopolar and bipolar iEEG recordings with anatomical coordinates.",
+  "methods_description": "Intracranial electrophysiological recordings were collected during a spatial navigation memory task consisting of learning and test phases. Learning trials involved participants being placed at random locations and automatically driven to object locations, while test trials required self-navigation to remembered object locations. Recordings were acquired using Blackrock and Medtronic systems across multiple clinical sites. Monopolar recordings were referenced (typically mastoid) and bipolar recordings followed paired electrode schemes. MNI and Talairach coordinates are provided for electrode locations.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -15,28 +15,34 @@
       "term": "intracranial EEG"
     },
     {
+      "term": "iEEG"
+    },
+    {
       "term": "spatial navigation"
     },
     {
       "term": "memory encoding"
     },
     {
-      "term": "object location memory"
+      "term": "learning"
+    },
+    {
+      "term": "object location recall"
     },
     {
       "term": "electrophysiology"
     },
     {
-      "term": "learning"
+      "term": "clinical neurophysiology"
+    },
+    {
+      "term": "episodic memory"
     },
     {
       "term": "multi-site"
     },
     {
-      "term": "behavioral data"
-    },
-    {
-      "term": "multi-center"
+      "term": "virtual environment"
     }
   ],
   "related_identifiers": [
@@ -75,7 +81,7 @@
     "ieeg"
   ],
   "sizes": [
-    "113.6 GB (277 files)"
+    "114.4 GB (277 files)"
   ],
   "formats": [
     ".edf",
