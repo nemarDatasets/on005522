@@ -1,0 +1,6 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch
+LHH4-LHH5	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
+LHH10-LHH11	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
+LHH5-LHH6	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
+RHB7-RHB10	SEEG	V	n/a	n/a	bipolar	RHB	500	depth	n/a
+RHB6-RHB7	SEEG	V	n/a	n/a	bipolar	RHB	500	depth	n/a

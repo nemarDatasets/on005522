@@ -1,0 +1,13 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch
+LDA1-LDA2	SEEG	V	n/a	n/a	bipolar	LDA	500	depth	n/a
+LDA2-LDA3	SEEG	V	n/a	n/a	bipolar	LDA	500	depth	n/a
+LDA3-LDA4	SEEG	V	n/a	n/a	bipolar	LDA	500	depth	n/a
+LDH1-LDH2	SEEG	V	n/a	n/a	bipolar	LDH	500	depth	n/a
+LDH2-LDH3	SEEG	V	n/a	n/a	bipolar	LDH	500	depth	n/a
+LDH3-LDH4	SEEG	V	n/a	n/a	bipolar	LDH	500	depth	n/a
+RDA1-RDA2	SEEG	V	n/a	n/a	bipolar	RDA	500	depth	n/a
+RDA2-RDA3	SEEG	V	n/a	n/a	bipolar	RDA	500	depth	n/a
+RDA3-RDA4	SEEG	V	n/a	n/a	bipolar	RDA	500	depth	n/a
+RDH1-RDH2	SEEG	V	n/a	n/a	bipolar	RDH	500	depth	n/a
+RDH2-RDH3	SEEG	V	n/a	n/a	bipolar	RDH	500	depth	n/a
+RDH3-RDH4	SEEG	V	n/a	n/a	bipolar	RDH	500	depth	n/a

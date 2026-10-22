@@ -25,13 +25,10 @@ LA7-LA8	SEEG	V	n/a	n/a	bipolar	LA	500	depth	n/a
 LHH1-LHH2	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
 LHH2-LHH3	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
 LHH3-LHH4	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
-LHH4-LHH5	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
 LHH6-LHH7	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
 LHH7-LHH8	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
 LHH8-LHH9	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
 LHH9-LHH10	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
-LHH10-LHH11	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
-LHH5-LHH6	SEEG	V	n/a	n/a	bipolar	LHH	500	depth	n/a
 LHB1-LHB2	SEEG	V	n/a	n/a	bipolar	LHB	500	depth	n/a
 LHB2-LHB3	SEEG	V	n/a	n/a	bipolar	LHB	500	depth	n/a
 LHB3-LHB4	SEEG	V	n/a	n/a	bipolar	LHB	500	depth	n/a
@@ -85,12 +82,10 @@ RHH8-RHH9	SEEG	V	n/a	n/a	bipolar	RHH	500	depth	n/a
 RHH9-RHH10	SEEG	V	n/a	n/a	bipolar	RHH	500	depth	n/a
 RHH10-RHH12	SEEG	V	n/a	n/a	bipolar	RHH	500	depth	n/a
 RHH12-RHH13	SEEG	V	n/a	n/a	bipolar	RHH	500	depth	n/a
-RHB7-RHB10	SEEG	V	n/a	n/a	bipolar	RHB	500	depth	n/a
 RHB2-RHB3	SEEG	V	n/a	n/a	bipolar	RHB	500	depth	n/a
 RHB3-RHB4	SEEG	V	n/a	n/a	bipolar	RHB	500	depth	n/a
 RHB4-RHB5	SEEG	V	n/a	n/a	bipolar	RHB	500	depth	n/a
 RHB5-RHB6	SEEG	V	n/a	n/a	bipolar	RHB	500	depth	n/a
-RHB6-RHB7	SEEG	V	n/a	n/a	bipolar	RHB	500	depth	n/a
 RHB10-RHB11	SEEG	V	n/a	n/a	bipolar	RHB	500	depth	n/a
 RHB11-RHB12	SEEG	V	n/a	n/a	bipolar	RHB	500	depth	n/a
 RHT3-RHT4	SEEG	V	n/a	n/a	bipolar	RHT	500	depth	n/a

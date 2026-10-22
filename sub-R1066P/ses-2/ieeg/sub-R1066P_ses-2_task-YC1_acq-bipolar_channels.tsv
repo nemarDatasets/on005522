@@ -13,12 +13,6 @@ LMT3-LMT4	ECOG	V	n/a	n/a	bipolar	LMT	500	strip	n/a
 LPT1-LPT2	ECOG	V	n/a	n/a	bipolar	LPT	500	strip	n/a
 LPT2-LPT3	ECOG	V	n/a	n/a	bipolar	LPT	500	strip	n/a
 LPT3-LPT4	ECOG	V	n/a	n/a	bipolar	LPT	500	strip	n/a
-LDA1-LDA2	SEEG	V	n/a	n/a	bipolar	LDA	500	depth	n/a
-LDA2-LDA3	SEEG	V	n/a	n/a	bipolar	LDA	500	depth	n/a
-LDA3-LDA4	SEEG	V	n/a	n/a	bipolar	LDA	500	depth	n/a
-LDH1-LDH2	SEEG	V	n/a	n/a	bipolar	LDH	500	depth	n/a
-LDH2-LDH3	SEEG	V	n/a	n/a	bipolar	LDH	500	depth	n/a
-LDH3-LDH4	SEEG	V	n/a	n/a	bipolar	LDH	500	depth	n/a
 LP3-LP4	ECOG	V	n/a	n/a	bipolar	LP	500	strip	n/a
 LP4-LP5	ECOG	V	n/a	n/a	bipolar	LP	500	strip	n/a
 LP5-LP6	ECOG	V	n/a	n/a	bipolar	LP	500	strip	n/a
@@ -39,9 +33,3 @@ RPT3-RPT4	ECOG	V	n/a	n/a	bipolar	RPT	500	strip	n/a
 RDNET1-RDNET2	SEEG	V	n/a	n/a	bipolar	RDNET	500	depth	n/a
 RDNET2-RDNET3	SEEG	V	n/a	n/a	bipolar	RDNET	500	depth	n/a
 RDNET3-RDNET4	SEEG	V	n/a	n/a	bipolar	RDNET	500	depth	n/a
-RDA1-RDA2	SEEG	V	n/a	n/a	bipolar	RDA	500	depth	n/a
-RDA2-RDA3	SEEG	V	n/a	n/a	bipolar	RDA	500	depth	n/a
-RDA3-RDA4	SEEG	V	n/a	n/a	bipolar	RDA	500	depth	n/a
-RDH1-RDH2	SEEG	V	n/a	n/a	bipolar	RDH	500	depth	n/a
-RDH2-RDH3	SEEG	V	n/a	n/a	bipolar	RDH	500	depth	n/a
-RDH3-RDH4	SEEG	V	n/a	n/a	bipolar	RDH	500	depth	n/a
